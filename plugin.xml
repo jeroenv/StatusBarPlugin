@@ -3,7 +3,7 @@
 <plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"
     xmlns:rim="http://www.blackberry.com/ns/widgets"
     xmlns:android="http://schemas.android.com/apk/res/android"
-    id="com.phonegap.plugin.statusbar"
+    id="com.checkroom.plugin.statusbar"
     version="1.1.0">
     <name>StatusBar</name>
     <description>This plugin allows your application to control the statusbar appearance and behavior on iOS devices running iOS 7 or above.</description>
